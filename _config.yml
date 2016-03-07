@@ -1,0 +1,3 @@
+permalink: pretty
+baseurl: /codepen-to-sass
+exclude: [scss]
