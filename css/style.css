@@ -573,8 +573,16 @@ html {
 }
 
 body {
+  width: 100%;
   font-family: "Droid Serif", Times New Roman, Georgia, serif;
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  background-color: #2FB8AC;
   padding: 2%;
+  margin: 0;
 }
 
 h1 {
